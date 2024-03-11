@@ -2,7 +2,7 @@
 - 👀 I’m interested in blockchain developer...
 - 🌱 I’m currently learning .smart contract programming..
 - 📫 about is THE BEST IS YET TO BE
-- ⚡ Fun fact:IAM NAUGHTY
+
 
 <!---
 chalamsanju/chalamsanju is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

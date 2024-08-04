@@ -1,5 +1,4 @@
-👋 Hi, I'm Chalamsanjay
-
+👋 Hi, I'm chalamsanju
  👀 Interests
 I'm a passionate blockchain developer 
 

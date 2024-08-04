@@ -1,7 +1,12 @@
-- 👋 Hi,iam chalamsanjay
-- 👀 I’m interested in blockchain developer...
-- 🌱 I’m currently learning .smart contract programming..
-- 📫 about is THE BEST IS YET TO BE
+👋 Hi, I'm Chalamsanjay
+ 👀 Interests
+I'm a passionate blockchain developer 
+🌱 Current Learning
+I'm currently diving deep into smart contract programming, mastering the intricacies of Solidity, and building decentralized applications (dApps).
+ 📫 Contact
+Feel free to reach out to me for collaborations, discussions, or any exciting opportunities in the blockchain space.
+✨ Motto
+"The best is yet to be."
 
 
 <!---

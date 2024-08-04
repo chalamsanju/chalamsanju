@@ -3,31 +3,21 @@
 
 
 # 💻Technologies
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![ReactJS](https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![mongodb](https://img.shields.io/badge/mongodb-%234F5D95.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![ReactJS](https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) ![Ethers.js](https://img.shields.io/badge/Ethers.js-7E3AF2?style=for-the-badge&logo=ethereum&logoColor=white) ![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=ethereum&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
 
 # 💻WEB3
-[![Solidity](https://img.shields.io/badge/Solidity-%23339933.svg?style=for-the-badge&logo=solidity&logoColor=white)](https://soliditylang.org/) 
-[![Ethereum](https://img.shields.io/badge/Ethereum-%23646BD4.svg?style=for-the-badge&logo=ethereum&logoColor=white)](https://ethereum.org/) 
-[![Blockchain](https://img.shields.io/badge/Blockchain-%235665A4.svg?style=for-the-badge&logo=blockchain.com&logoColor=white)](https://www.blockchain.com/) 
-[![Supply Chain](https://img.shields.io/badge/Supply_Chain-%234BAF4F.svg?style=for-the-badge&logo=supplychain.com&logoColor=white)](https://www.example.com/) 
-[![MetaMask](https://img.shields.io/badge/MetaMask-%xF2C94C.svg?style=for-the-badge&logo=metamask&logoColor=white)](https://metamask.io/)
-[![Hyperledger](https://img.shields.io/badge/Hyperledger-%x2F313131.svg?style=for-the-badge&logo=hyperledger&logoColor=white)](https://www.hyperledger.org/)
-[![Ethereum Wallet](https://img.shields.io/badge/Ethereum_Wallet-%233C3C3D.svg?style=for-the-badge&logo=ethereum&logoColor=white)](https://ethereum.org/)
-[![Cryptography](https://img.shields.io/badge/Cryptography-%23121011.svg?style=for-the-badge&logo=cryptography&logoColor=white)](https://en.wikipedia.org/wiki/Cryptography)
-[![Metaverse](https://img.shields.io/badge/Metaverse-%23000000.svg?style=for-the-badge)](https://en.wikipedia.org/wiki/Metaverse)
+[![Blockchain](https://img.shields.io/badge/Blockchain-%235665A4.svg?style=for-the-badge&logo=blockchain.com&logoColor=white)](https://www.blockchain.com/)
+[![Ethereum](https://img.shields.io/badge/Ethereum-%23646BD4.svg?style=for-the-badge&logo=ethereum&logoColor=white)](https://ethereum.org/)
+![Smart Contracts](https://img.shields.io/badge/Smart%20Contracts-4CAF50?style=for-the-badge&logo=ethereum&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+[![Truffle](https://img.shields.io/badge/Truffle-3D4B7A.svg?style=for-the-badge&logo=truffle&logoColor=white)](https://www.trufflesuite.com/)
+![Hardhat](https://img.shields.io/badge/Hardhat-000000?style=for-the-badge&logo=hardhat&logoColor=white)
 [![NFTs](https://img.shields.io/badge/NFTs-%23FF5733.svg?style=for-the-badge)](https://en.wikipedia.org/wiki/Non-fungible_token)
-
-<a href="https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linux.org/&ved=2ahUKEwiG44mDldaFAxUxxzgGHbJ5BFMQFnoECEIQAQ&usg=AOvVaw0OoiTmQ34Do398976duTL0" target="_blank">
-  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux">
-</a>
-<a href="https://code.visualstudio.com/" target="_blank">
-  <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png" alt="VS Code">
-</a>
-<a href="https://netbeans.apache.org/" target="_blank">
-  <img height="40" src="https://logos-download.com/wp-content/uploads/2020/07/NetBeans_Logo.png" alt="NetBeans">
-</a>
-<img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" alt="Ubuntu">
-
+![Ganache](https://img.shields.io/badge/Ganache-7444B1?style=for-the-badge&logo=ganache&logoColor=white)
+[![MetaMask](https://img.shields.io/badge/MetaMask-F2C94C.svg?style=for-the-badge&logo=metamask&logoColor=white)](https://metamask.io/)
+![Ethernaut](https://img.shields.io/badge/Ethernaut-1E1E1E?style=for-the-badge&logo=ethereum&logoColor=white)
+![Cryptography](https://img.shields.io/badge/Cryptography-009688?style=for-the-badge&logo=keybase&logoColor=white)
  ### Operating Systems
   [![My Skills](https://skillicons.dev/icons?i=apple,windows,ubuntu)](https://skillicons.dev)
 # 📊 GitHub Stats:
